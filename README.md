@@ -1,6 +1,6 @@
 # 🪔 Diwali Sales Analysis — Python & SQL
 
-> End-to-end retail sales analysis covering customer segmentation, regional performance, and product insights across **11,251 transactions** and **₹106M+ in revenue** — using Python for EDA and MySQL for business queries.
+End-to-end retail sales analysis covering customer segmentation, regional performance, and product insights across **11,251 transactions** and **₹106M+ in revenue** — using Python for EDA and MySQL for business queries.
 
 ---
 
